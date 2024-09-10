@@ -1,9 +1,9 @@
 # Stock-Price-Prediction-and-Forecasting
 LSTM Models for predicting and forecasting the stock price predictions
 #Model1 : Using MinMaxScalar
-#Dataset Collected from Tiingo.
-#Sign in to Tiingo, and afterward visit https://api.tiingo.com/account/token and you will see your token.
-#The split is done in 65:35 ratio for training and testing.
+# Dataset Collected from Tiingo.
+# Sign in to Tiingo, and afterward visit https://api.tiingo.com/account/token and you will see your token.
+# The split is done in 65:35 ratio for training and testing.
 
 #
 #
